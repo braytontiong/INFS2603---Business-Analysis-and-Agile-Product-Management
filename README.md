@@ -1,6 +1,6 @@
 # INFS2603---Business-Analysis-and-Agile-Product-Management
 
-# INFS2603 – Coditas Skills Radar
+# Coditas Skills Radar
 
 ## Project Overview
 
@@ -30,11 +30,11 @@ Provide engineers and managers with fast and reliable access to organisational s
 
 | Name | Role |
 |--------|------|
-| Member 1 | Scrum Master |
-| Member 2 | Product Owner |
-| Member 3 | Developer |
-| Member 4 | Developer |
-| Member 5 | Developer |
+| Brayton Huo Yiaw Tiong | Scrum Master |
+| Bao Ngoc Nguyen  | Product Owner |
+| Gia Bao Nguyen  | Developer |
+| Aina Madihah Mohd Nizam  | Developer |
+| Fenghao Yu  | Developer |
 
 ---
 
