@@ -38,21 +38,177 @@ Provide engineers and managers with fast and reliable access to organisational s
 
 ---
 
-## Repository Structure
+## Enterprise Analysis
 
-```text
-docs/ → Enterprise analysis and project documentation
+To understand the organisational problem, several business analysis frameworks were applied:
 
-diagrams/ → BPMN, As-Is, To-Be diagrams
+### External Analysis
 
-prototype/ → Figma links and screenshots
+- Industry analysis
 
-meeting_notes/ → Sprint meetings and discussions
+- Economic impact analysis
 
-sprint_backlog/ → User stories and sprint tasks
+- Human capital assessment
 
-final_report/ → Final report files
-```
+- Competitive pressure analysis
+
+### Internal Analysis
+
+- POPIT Analysis
+
+    - People
+
+    - Organisation
+
+    - Process
+
+    - Information
+
+    - Technology
+
+### Stakeholder Analysis
+
+Key stakeholders identified:
+
+- Engineers
+
+- Project Managers
+
+- HR Team
+
+- Senior Management
+
+- Clients
+
+Methods used:
+
+- Stakeholder categorisation
+
+- Influence-interest matrix
+
+- Stakeholder needs analysis
+
+### Root Cause Analysis
+
+Root causes identified:
+
+- Skills not visible for decision making
+
+- Skills not captured and maintained
+
+- Reliance on tacit knowledge
+
+- Manual and inconsistent skill updates
+
+---
+
+## Enterprise Modelling
+
+The project used enterprise modelling techniques to visualise current and future workflows.
+
+Models developed:
+
+- AS-IS process model
+
+- TO-BE BPMN workflow
+
+- Process improvement analysis
+
+Key improvements:
+
+- Automated candidate matching
+
+- Dynamic skill updates
+
+- Reduced reliance on personal knowledge
+
+- Improved capability visibility
+
+---
+
+## Product Design
+
+Product design activities included:
+
+### Persona Development
+
+Primary persona:
+
+**Elizabeth**
+
+Project Manager
+
+Pain points:
+
+- Fragmented information
+
+- Slow staffing process
+
+- Limited visibility of skills
+
+### User Story Mapping
+
+User workflow stages:
+
+- Define project
+
+- Generate candidates
+
+- Evaluate candidates
+
+- Build team
+
+- Skill maintenance
+
+### Roadmap Planning
+
+Release 1 (MVP)
+
+- Project request creation
+
+- Candidate recommendation
+
+- Team assembly workflow
+
+Release 2
+
+- Skill taxonomy
+
+- Filtering system
+
+- Automated improvements
+
+---
+
+## Prototype
+
+Low-fidelity prototypes were designed to validate assumptions and demonstrate user workflow.
+
+Prototype screens include:
+
+- Dashboard
+
+- Project request form
+
+- Candidate recommendation system
+
+- Team assembly interface
+
+- Skills update interface
+
+---
+
+## Product Analytics
+
+The HEART framework was used to evaluate product success.
+
+Metrics:
+
+- Task Success
+
+- Engagement
+
+- Adoption
 
 ---
 
